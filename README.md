@@ -38,6 +38,62 @@ But what kind of return can investors expect? We've run the numbers:
 
 Even our conservative scenario delivers positive cash flow, while the optimistic case with high appreciation could potentially double your investment in 5 years (101.5% total ROI).
 
+## Current Property Opportunities in Aldea Zama
+
+Aldea Zama stands out as Tulum's premier residential neighborhood, offering significant advantages over other areas:
+
+- **Enhanced Security**: Gated communities with 24/7 security provide peace of mind that's not always available in other Tulum neighborhoods
+- **Superior Infrastructure**: Paved roads, reliable utilities, and proper drainage systems (critical during rainy season)
+- **Strategic Location**: Positioned between downtown and the beach, offering the best of both worlds
+- **Established Community**: A blend of full-time residents and vacation properties creates a stable, well-maintained environment
+- **Amenities Within Walking Distance**: Restaurants, cafes, and shops accessible without requiring transportation
+
+Below are three compelling investment opportunities currently available in the same secure gated complex within this sought-after neighborhood:
+
+### Property Comparison
+
+| Feature | Garden Lock-Off Condo | Penthouse Unit | Luxury Two-Level Penthouse |
+|---------|----------------------|----------------|----------------------------|
+| **Price** | $219,000 USD | $219,000 USD | $550,000 USD |
+| **Bedrooms/Bathrooms** | 2 BR / 2 BA | 2 BR / 2 BA | 2 BR / 2 BA |
+| **Interior Space** | 70.6 m² (759.9 ft²) | 75.11 m² (808.4 ft²) | 87.81 m² |
+| **Outdoor Space** | 20.8 m² (223.7 ft²) | 42.41 m² (456.4 ft²) | 91.33 m² (26.44 m² exterior + 64.89 m² roof) |
+| **Total Area** | 91.4 m² (983.8 ft²) | 117.52 m² (1,264.7 ft²) | 179.14 m² |
+| **Special Features** | Garden patio, Lock-off layout | Private rooftop, Jacuzzi | Two levels, Rooftop, Jacuzzi, Solar panels |
+| **HOA Fee** | $4,224 MXN/month (~$210 USD) | $4,462 MXN/month (~$223 USD) | Not specified |
+| **Property Tax** | $450 USD/year | $442 USD/year | Not specified |
+| **Furnishing** | Fully furnished | Turnkey ready | Fully furnished |
+| **Unique Selling Point** | Lock-off design for flexible rental | Prime location with private rooftop | Luxury two-level penthouse with solar panels |
+
+### Property Highlights
+
+#### Garden Lock-Off Turnkey Condo
+Located in Aldea Zama Phase 2, this fully furnished unit features a flexible lock-off design ideal for maximizing rental income. The property includes developer upgrades like a kitchen island and a separate bar area in the lock-off suite. Its location offers easy access to restaurants, bars, and shops, with closer proximity to the beach than Phase 1 properties.
+
+#### Penthouse Unit
+This penthouse unit offers the perfect balance of space and value, featuring a private rooftop area with stunning views. Located in a fast-developing area with beach connectivity, the property comes with access to premium amenities including multiple pools, gym facilities, and 24/7 security. The turnkey condition makes it immediately rentable.
+
+#### Luxury Two-Level Penthouse
+The premium option among the three, this two-level penthouse boasts significantly more space, including an expansive rooftop area. Luxury features include a private jacuzzi, solar panels for energy efficiency, and a dedicated office space. Currently owned by an American investor through a fideicomiso (bank trust), this property represents the high-end segment of Tulum's market.
+
+All three properties are built by one of the most reputable developers in the Riviera Maya region with a proven track record of quality construction and reliable project completion. The gated community offers resort-style amenities including multiple pools, fitness facilities, lush landscaping, and dedicated parking—amenities that are often lacking in other Tulum neighborhoods.
+
+### Aldea Zama vs. Other Tulum Neighborhoods
+
+When comparing Aldea Zama to other Tulum areas like La Veleta, Region 15, or downtown Tulum, several key differences emerge:
+
+1. **Safety & Security**: Unlike some less developed areas where security can be a concern, Aldea Zama's gated communities offer controlled access and professional security teams. This is particularly valuable for properties that will be vacant between guest stays.
+
+2. **Infrastructure Reliability**: While other neighborhoods still struggle with unpaved roads, flooding during rainy season, and inconsistent utilities, Aldea Zama was master-planned with proper infrastructure from the beginning.
+
+3. **Rental Appeal**: Properties in Aldea Zama consistently command higher nightly rates and occupancy levels due to their desirability among tourists seeking safety, comfort, and convenience.
+
+4. **Resale Potential**: The established reputation and continued development of Aldea Zama provide stronger long-term appreciation potential compared to emerging neighborhoods with uncertain development trajectories.
+
+5. **Walkability**: Unlike areas where a car or taxi is required for daily needs, Aldea Zama offers restaurants, cafes, and small markets within walking distance—a significant advantage for vacation rentals.
+
+These advantages make Aldea Zama properties particularly attractive for foreign investors seeking both rental income and personal enjoyment with minimal headaches.
+
 ## Understanding the Tulum Market
 
 Before diving in, it's essential to understand the current market dynamics. Tulum has experienced significant changes in recent years:
