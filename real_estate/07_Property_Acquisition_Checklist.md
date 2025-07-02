@@ -13,7 +13,7 @@ This document provides a step-by-step guide for acquiring property in Tulum, Mex
 
 ### 1.2 Assemble Your Professional Team
 - [ ] **Hire an independent real estate attorney** specializing in foreign purchases
-  - [ ] Verify they have no ties to developers/sellers
+  - [ ] Verify they have no ties to developers/sellers or real estate agents involved in the transaction
   - [ ] Confirm experience with title disputes and fraud prevention
   - [ ] Check references from other foreign buyers
   - [ ] Execute engagement letter with clear fee structure
@@ -26,6 +26,7 @@ This document provides a step-by-step guide for acquiring property in Tulum, Mex
   - [ ] Research reputation and verify no fraud associations
   - [ ] Confirm experience with fideicomiso transactions
   - [ ] Check if they're on U.S. Consulate's recommended list
+  - [ ] Verify they have no ties to the seller, developer, or real estate agents
 
 ### 1.3 Financial Preparation
 - [ ] Set up Mexican bank account (if planning local banking)
@@ -34,6 +35,25 @@ This document provides a step-by-step guide for acquiring property in Tulum, Mex
   - [ ] Understand terms, rates, and closing requirements
 - [ ] Plan for currency exchange (timing to get best rates)
 - [ ] Set aside funds for escrow deposit (~10% of purchase price)
+
+### 1.4 Understanding the Fideicomiso (Mexican Bank Trust)
+- [ ] **Learn the basics of the fideicomiso system**
+  - [ ] Understand that foreigners cannot directly own property in Mexico's restricted zones (within 50km of coastlines or 100km of borders)
+  - [ ] Recognize that the fideicomiso is a legal workaround that allows foreigners to control and benefit from property through a bank trust
+  - [ ] Know that the bank (trustee) holds legal title while you (beneficiary) retain all ownership rights (use, rent, sell, inherit, etc.)
+- [ ] **Research fideicomiso costs and requirements**
+  - [ ] Initial setup fee: $1,000-2,000 USD (varies by bank)
+  - [ ] Annual maintenance fee: $500-700 USD (varies by bank)
+  - [ ] Term: 50 years, renewable for additional 50-year periods
+  - [ ] Required documents: passport, visa/FMM, proof of address
+- [ ] **Select a trustee bank for your fideicomiso**
+  - [ ] Compare fees and services among major banks (BBVA, Santander, Scotiabank, etc.)
+  - [ ] Check bank's experience with foreign property owners
+  - [ ] Understand their renewal process and requirements
+- [ ] **Plan for permit application**
+  - [ ] Foreign Affairs Ministry (SRE) permit required
+  - [ ] Processing time: 3-6 weeks typically
+  - [ ] Your attorney will handle this as part of closing process
 
 ## Phase 2: Property Search & Initial Due Diligence
 
@@ -287,6 +307,7 @@ Throughout the entire process, verify these critical fraud prevention measures:
   - [ ] Ensure your attorney is not also representing seller/developer
   - [ ] Verify your realtor is not secretly developer-affiliated
   - [ ] Use your own notary for document review (even if closing uses seller's)
+  - [ ] Confirm no undisclosed referral fees or relationships between your professionals
 
 ### 7.5 Document Authentication
 - [ ] **Verify all official documents**
